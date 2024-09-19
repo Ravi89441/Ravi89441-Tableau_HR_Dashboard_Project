@@ -4,9 +4,10 @@
 **Role:** As an HR Manager
 **Objective:** To create a comprehensive dashboard to analyze human resources data, offering both a summary overview for high-level insights and detailed employee records for in-depth analysis.
 
-This project provides an intuitive, data-driven HR dashboard tailored to meet the needs of HR managers by offering clear, actionable insights into the workforce. The dashboard is divided into two primary views: **Summary View and Employee Records View.
-**
+This project provides an intuitive, data-driven HR dashboard tailored to meet the needs of HR managers by offering clear, actionable insights into the workforce. The dashboard is divided into two primary views: **Summary View and Employee Records View.**
+
 Features
+
 1. Summary View
 Overview
 This section provides key HR metrics, helping the HR team understand the current state of the workforce:
